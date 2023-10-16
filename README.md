@@ -1,7 +1,7 @@
 # AMAZON JOBS SCRAPER
 
 # DESCRIPTION
-This program is an Amazon jobs scraper that scrapes the Amazon jobs website and saves the results to a JSON file. It uses the HttpURLConnection class to make requests to the Amazon jobs website and the JSON class to parse the JSON responses.
+-> This program is an Amazon jobs scraper that scrapes the Amazon jobs website and saves the results to a JSON file. It uses the HttpURLConnection class to make requests to the Amazon jobs website and the JSON class to parse the JSON responses.
 
 # USAGE
 1)	Job search: The scraper can be used to search for jobs on the Amazon jobs website and save the results to a JSON file. This can be useful for job seekers who want to track the jobs they have applied for or who want to create a database of jobs that they are interested in.
